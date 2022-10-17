@@ -1,0 +1,19 @@
+.weekName {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.weekName li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.weekName li span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  margin: 0 10px;
+  background: rgba(177, 178, 255, 0.1);
+  border-radius: 50%;
+}

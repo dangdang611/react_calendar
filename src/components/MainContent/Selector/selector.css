@@ -1,0 +1,12 @@
+.selector {
+  padding: 15px;
+}
+.selector ul {
+  display: flex;
+  margin: 0;
+}
+.selector ul li {
+  padding: 5px;
+  background: rgba(177, 178, 255, 0.1);
+  margin-right: 5px;
+}

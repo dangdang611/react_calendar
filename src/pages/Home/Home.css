@@ -1,0 +1,11 @@
+.home {
+  display: flex;
+}
+.home .mainContent {
+  width: 70%;
+  border: 1px solid red;
+}
+.home .toolsContent {
+  flex: 1;
+  border: 1px solid red;
+}
